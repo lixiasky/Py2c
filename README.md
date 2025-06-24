@@ -4,6 +4,8 @@ Py2C is a lightweight MVP transpiler that converts Python 3.10 source code into 
 
 Note: Source code comments are primarily in Chinese, as this is an MVP stage prototype.
 
+> *Note: This project was built by a first-year undergraduate student as an initial attempt to explore compiler design.
+
 Features
 
 ## Supported
